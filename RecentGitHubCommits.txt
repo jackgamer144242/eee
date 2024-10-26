@@ -1,0 +1,10 @@
+e139bc1c3dcd5fabf6865fbc3de4fe88be9f9ca2 Update build.yml
+f34163842425516a96e834c1a48df93498a843b9 Update build.yml
+b4e70827767a829f08442949549c77701850e48e SocialAPI.Workshop.SupportedTags.ModTags -> SteamedWraps.ModTags (#4364)
+bacb22491e210d71aeac60674fef6e62b887cf05 Typo
+0a389566cf38f9ab51751651737c7f5ca291dd99 Added confirmation dialog to toggle all mods (#4359)
+d13eb160ad2c6b742ec7b8d3111285c44dadf7f7 Update ru-RU tModLoader.json (#4360)
+911af62d68580fcf0ac84e85c26a06c49e411833 Add doc links to Assets wiki page
+3d33ac80ca3706fdad3fa91903b1325c466ff3fe Fix #4355
+efb7c47b076c6154ebdfcba41c1620007bdd10b8 Preserve prefixes for unloaded items and unloaded prefixes (#4349)
+f9288544603ac1a8824f19544586528b18802f93 Update TerrariaHooks.dll
